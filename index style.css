@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	background-color: white;
+	}
+h1{
+	margin:.67em 0;
+	color: dodgerblue;
+	text-align: center;
+	background-color: azure;
+	border: 2px solid dodgerblue;
+}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+sub{
+	text-align: center;
+}
+h2{
+	font-family: cursive;
+}
+h3{
+	color: red;
+}
+div{
+	color: red;
+}
